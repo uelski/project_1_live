@@ -1,0 +1,118 @@
+body, html {
+  width: 100%;
+  height: 100%; }
+
+.wrapper {
+  text-align: center;
+  position: fixed;
+  background: linear-gradient(30.68207deg, #d6f50f 1.25%, #a89e43 27.639%, #4b78a3 63.403%, #a6ff70 96.042%);
+  right: 0;
+  top: 0;
+  left: 0; }
+
+#header {
+  height: 175px;
+  background-color: black;
+  text-align: center;
+  color: white; }
+
+#title {
+  padding: 25px;
+  height: 160px; }
+
+#jaco {
+  height: 120px;
+  margin-bottom: 50px;
+  display: none; }
+
+#side {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 20%;
+  background-color: #01050d;
+  position: absolute;
+  margin-left: -20px; }
+
+#sidebar {
+  float: left;
+  width: 75%;
+  height: 400px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #5c7a78;
+  font-family: "Play", sans-serif;
+  color: #5c7a78;
+  font-size: 25px;
+  margin-top: 175px;
+  margin-left: 10px; }
+
+#topOfGame {
+  height: 55px;
+  width: 60%;
+  border: 1px solid black;
+  display: block;
+  margin-left: 25%;
+  margin-right: 15%;
+  margin-top: 20px;
+  padding-top: 2%;
+  font-family: "Bree Serif", serif;
+  font-size: 20px;
+  background-color: black;
+  color: #5c7a78;
+  border-radius: 10px; }
+
+#gameBox {
+  border: 4px solid black;
+  border-radius: 30px;
+  height: 500px;
+  width: 60%;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5%;
+  margin-right: 15%;
+  margin-left: 25%;
+  text-align: center;
+  background: black; }
+
+#playBtn {
+  margin: 10px;
+  height: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 10px;
+  background-color: #040000;
+  font-family: "Play", sans-serif;
+  font-size: 15px;
+  color: #5c7a78;
+  outline: none; }
+
+.pad {
+  margin: 10px;
+  height: 50%;
+  width: 25%;
+  border-radius: 10px;
+  background: #1a5416;
+  display: inline-block;
+  opacity: .60; }
+
+#inside {
+  height: 300px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  background: #c8d208;
+  border-radius: 10px; }
+
+#footer {
+  clear: both;
+  height: 100px;
+  width: auto; }
+
+.row {
+  height: 30%;
+  width: auto; }
+
+/*# sourceMappingURL=style.css.map */
