@@ -60,5 +60,41 @@ body, html {
   }
 
   .colorBars {
-    
+    height: 500px;
+    width: 10%;
+    margin-top: 175px;
+    display: inline-block;
+    background-color: white;
+  }
+
+  #one {
+    background-color: rgb(61, 0, 77);
+  }
+
+  #two {
+    background-color: rgb(78, 15, 94);
+  }
+
+  #three {
+    background-color: rgb(94, 25, 111);
+  }
+
+  #four {
+    background-color: rgb(114, 40, 133);
+  }
+
+  #five {
+    background-color: rgb(134, 58, 153);
+  }
+
+  #six {
+    background-color: rgb(154, 78, 173);
+  }
+
+  #seven {
+    background-color: rgb(180, 110, 198);
+  }
+
+  #eight {
+    background-color: rgb(204, 147, 219);
   }
